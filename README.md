@@ -32,7 +32,4 @@ and many more, including code architecture and reusability
 
 ## <a name="links">🔗 Links</a>
 
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
-
-
-#
+https://storied-fox-a9d3ef.netlify.app/
